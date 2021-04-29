@@ -1,0 +1,31 @@
+span {
+    margin-left: 2rem;
+  }
+
+table{
+    width: 100%;
+  }
+
+  mat-toolbar {
+    margin-top: 2rem;
+}
+
+.mat-column-select {
+    overflow: initial;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.mat-raised-button,
+.mat-stroked-button,
+.mat-flat-button {
+    min-width: 8rem !important;
+}
+
+.table-responsive,
+mat-toolbar {
+    width: 100% !important;
+    overflow-x: auto !important;
+}
